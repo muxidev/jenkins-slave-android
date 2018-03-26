@@ -1,4 +1,4 @@
-FROM thedrhax/android-sdk:latest
+FROM docker.rj1.muxi.corp/android-sdk-ndk:1.0
 
 MAINTAINER Dmitry Karikh <the.dr.hax@gmail.com>
 
